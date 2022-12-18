@@ -1,0 +1,13 @@
+{
+  "name": "specier-menfess-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/aldhinoerman/specier-menfess-bot.git",
+  "author": "@cherryy_pickk",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "twit": "^2.2.11"
+  }
+}
